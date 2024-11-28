@@ -19,8 +19,8 @@ Follow these instructions to set up and run the project on your local machine fo
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/react-chrome-extension-tailwind.git
-   cd react-chrome-extension-tailwind
+   git clone  https://github.com/mr-perfectcoder/react-js-chrome-extension-starter-template-with-tailwind.git
+   cd react-js-chrome-extension-starter-template-with-tailwind
 
 2. **Install dependencies**
 Install the necessary dependencies by running the following command:
