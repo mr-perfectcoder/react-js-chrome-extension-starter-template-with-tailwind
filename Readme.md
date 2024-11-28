@@ -1,5 +1,7 @@
 # ReactJS Chrome Extension Starter Template with Tailwind CSS
 
+<img width="402" alt="Screenshot 2024-11-28 at 5 11 37 PM" src="https://github.com/user-attachments/assets/99aad700-e503-4d43-bef0-bb7c166c2041">
+
 This project is a starter template for creating a Chrome extension using ReactJS and Tailwind CSS. It includes the basic setup and configuration to get you started quickly.
 
 ## Features
